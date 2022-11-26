@@ -1,0 +1,5 @@
+commands:
+  uni:
+    messages:
+      no-such-name: "The admission website of the university is not included or published. \nOr you can enter the full name of the university and try again."
+      plz-enter-name: "请输入学校全名！"

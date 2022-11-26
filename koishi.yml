@@ -1,0 +1,51 @@
+host: localhost
+port: 5140
+maxPort: 5149
+plugins:
+  group:basic:
+    help: null
+    rate-limit: null
+    suggest: null
+    locales: null
+    commands: null
+    ~admin: null
+    ~bind: null
+  group:console:
+    console:
+      open: true
+    dataview: null
+    logger: null
+    insight: null
+    market:
+      registry:
+        endpoint: https://registry.npmmirror.com
+      search:
+        endpoint: https://registry.koishi.chat/index.json
+    sandbox: null
+    status: null
+    ~auth: null
+  group:database:
+    database-sqlite: null
+    ~database-mysql: null
+    ~database-mongo: null
+  group:adapter:
+    adapter-onebot:
+      protocol: ws
+      selfId: '123456789'
+      endpoint: ws://127.0.0.1:6700
+    ~adapter-discord: null
+    ~adapter-telegram: null
+    ~adapter-kook: null
+    gocqhttp: null
+  hitokoto: {}
+  uni-entry: {}
+  uni-envir: {}
+  uni-major: {}
+  uni-ranking: {}
+  baidu: {}
+  music: {}
+  translator-youdao:
+    appKey: 5a20ec1ead7d2464
+    secret: 71RG5GRrl1Exef1v4qylycYC6FoZpiCa
+  rryth: {}
+  schedule: {}

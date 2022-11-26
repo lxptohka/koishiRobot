@@ -1,0 +1,52 @@
+[
+  {
+    "rankName": "QS",
+    "info": "世界大学排名",
+    "url": "http://www.qianmu.org/ranking"
+  },
+  {
+    "rankName": "U.S.News",
+    "info": "世界大学排名",
+    "url": "https://nlg.cheersyou.com/ranking/world/usnews"
+  },
+  {
+    "rankName": "THE",
+    "info": "世界大学排名",
+    "url": "https://nlg.cheersyou.com/ranking/world/the"
+  },
+  {
+    "rankName": "ARWU",
+    "info": "世界大学排名",
+    "url": "https://nlg.cheersyou.com/ranking/world/arwu"
+  },
+  {
+    "rankName": "泰晤士",
+    "info": "世界大学排名",
+    "url": "https://www.timeshighereducation.com/cn/world-university-rankings/2023/world-ranking"
+  },
+  {
+    "rankName": "校友会",
+    "info": "中国大学排名",
+    "url": "https://www.dxsbb.com/news/5463.html"
+  },
+  {
+    "rankName": "软科",
+    "info": "中国大学排名",
+    "url": "https://www.shanghairanking.cn/rankings/bcur/202010"
+  },
+  {
+    "rankName": "计算机科学与技术",
+    "info": "中国大学排名",
+    "url": "https://www.hfplg.com/dxpm/10881.html"
+  },
+  {
+    "rankName": "软件工程",
+    "info": "中国大学排名",
+    "url": "https://www.shanghairanking.cn/rankings/bcmr/2022/080902"
+  },
+  {
+    "rankName": "2022",
+    "info": "中国大学专业排名查询入口",
+    "url": "https://www.shanghairanking.cn/rankings/bcmr/2022"
+  }
+]
