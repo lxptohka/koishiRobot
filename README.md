@@ -2,6 +2,8 @@
 使用Koishi开发的一个QQ聊天机器人，用于学习typescript。
 
 使用步骤：
+- 安装node.js
+- 使用node.js自带的npm包管理工具下载更强大的包管理工具yarn：npm i -g yarn
 - 在本地clone本项目之后使用yarn install拉取依赖
 - 使用go-cqhttp登录机器人QQ
 - 配置go-cqhttp的配置文件和koishi的配置文件，主要是端口地址要一致
